@@ -11,6 +11,5 @@ cosmos_db_params = {
     'feedback_table': 'feedback',
     'tokens_table': 'tokens',
     'feature_users_table': 'feature_users',
-
     'partition_key': 'id',
 }
